@@ -1,4 +1,3 @@
-<--!
 <script type="text/javascript">
 jQuery(function($) {
     function narrowScreen() {
